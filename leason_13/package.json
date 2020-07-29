@@ -1,0 +1,14 @@
+{
+  "name": "leason_13",
+  "version": "1.0.0",
+  "description": "Тестирование функций",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "MishaBear",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
